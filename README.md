@@ -14,7 +14,7 @@ Caso queira utilizar o source.py
 pre-requisitos: python 3.7 | 3.8, OpenCv : pip install OPENCV-PYTHON 
  <ol>
   <li>Baixe o .rar e extraia para o diretório de preferência</li>
-  <li>dê um git-clone no repositório e copie o source.py para a pasta dist dentro de Deteccao.rar</li>
+  <li>dê um git-clone no repositório e copie o source.py para a pasta code</li>
   <li>Após isso execute com sua IDE python de preferência</li>
 </ol> 
 
